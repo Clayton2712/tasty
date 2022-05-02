@@ -1782,4 +1782,12 @@ textarea {
   color: #000 !important;
 }
 
+.hasBlueBorder {
+  border: solid 1px #46b8da;
+}
+
+.gallerySection h3 {
+
+}
+
 /*# sourceMappingURL=style.css.map */
