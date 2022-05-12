@@ -1788,7 +1788,8 @@ textarea {
 
 .small-img {
   height: auto;
-  width: 100%;
+  min-width: 100%;
 }
+
 
 /*# sourceMappingURL=style.css.map */
